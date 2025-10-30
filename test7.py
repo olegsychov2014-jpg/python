@@ -302,7 +302,7 @@ import random
 #             print(i, "zero")
 # print(c)
 
-a=""
+a="жИраФ"
 
 
 
