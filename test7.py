@@ -302,7 +302,19 @@ import random
 #             print(i, "zero")
 # print(c)
 
+c=0
+b=0
 a="жИраФ"
+for i in a:
+    print(i)
+    if i.islower():
+        print(i)
+        c=c+1
+    elif i.isupper():
+        print(i)
+        b=b+1
+print(b,"великі букви.")
+print(c,"маленьні букви.")
 
 
 
