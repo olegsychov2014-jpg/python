@@ -26,3 +26,4 @@ for i in range(4):
 t.end_fill()
 t.done()
 
+print("1")
